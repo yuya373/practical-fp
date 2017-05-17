@@ -1,3 +1,5 @@
+-- [lnzntのHaskell日記 - haskell](https://haskell.g.hatena.ne.jp/lnznt/)
+-- 値コンストラクタをエクスポートしない, escapeを使うことを強制する。パターンマッチを防ぐ。
 module HTMLEscapedString
   ( HTMLEscapedString
   , escape
